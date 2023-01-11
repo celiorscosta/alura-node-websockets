@@ -1,0 +1,24 @@
+{
+  "name": "alura-node-websockets",
+  "version": "1.0.0",
+  "description": "| :placard: API em NodeJS |     | | -------------  | --- | | :sparkles: Nome        | **WebSockets: implemente comunicações em tempo real com Socket.IO e MongoDB** | :label: Tecnologias | WebSockets, Node, MongoDB | :school: Escola | Alura",
+  "main": "index.js",
+  "scripts": {
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiorscosta/alura-node-websockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celiorscosta/alura-node-websockets/issues"
+  },
+  "homepage": "https://github.com/celiorscosta/alura-node-websockets#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
